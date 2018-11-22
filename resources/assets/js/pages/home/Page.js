@@ -62,9 +62,7 @@ class Page extends React.Component {
                                 className="pretitle"
                             />
                         </Responsive>
-                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                            <img className="logo-main"
-                            src={require('../../../images/logo/logo.png')} alt="infoTiq"/>
+                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 logo-main">
                         </div>
                         <Header
                             as='p'
