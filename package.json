@@ -17,7 +17,9 @@
     "laravel-mix": "^2.1.11",
     "lodash": "^4.17.4",
     "react": "^16.0.0",
-    "react-dom": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "dependencies": {
     "ajv": "^6.5.5",
     "prop-types": "^15.6.0",
     "react-redux": "^5.0.6",
@@ -30,8 +32,5 @@
     "ree-validate": "^3.0.2",
     "semantic-ui-react": "^0.79.0",
     "vee-validate": "^2.1.0-beta.5"
-  },
-  "dependencies": {
-
   }
 }
